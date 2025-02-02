@@ -59,4 +59,4 @@ The Movie Search App is a simple yet feature-rich web application designed to al
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/b4f20d5f-54f4-4007-bb18-5af4bacc8a73)
+![Image](https://github.com/user-attachments/assets/143e33cf-c261-4e42-8246-3b2c7a1742e6)
